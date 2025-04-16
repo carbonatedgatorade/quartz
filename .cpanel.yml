@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/negativ2/public_html/public
+    - export DEPLOYPATH=/home/negativ2/public_html/.well-known
     - /bin/cp -r * $DEPLOYPATH
