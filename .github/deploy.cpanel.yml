@@ -3,5 +3,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/negative2/repositories/quartz2
+    - export DEPLOYPATH=/home/negativ2/public_html
     
