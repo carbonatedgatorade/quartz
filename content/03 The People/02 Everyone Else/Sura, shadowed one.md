@@ -1,5 +1,5 @@
 ---
-title: 01 Character Template
+title: Sura, shadowed one
 Draft: "False"
 tags:
   - NPCs
