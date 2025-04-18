@@ -6,5 +6,5 @@ tags:
 ---
 **Orc - She/Her**
 
-*Tall and golden haired.  She keeps to herself, but will talk if approached. Often on the back of her destrier, Luca.*
+*Tall and golden haired.  She keeps to herself, but will talk if approached. Often on the back of her destrier, [[Luca]].*
 
