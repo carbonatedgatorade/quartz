@@ -1,5 +1,5 @@
 ---
-title: Luca, destrier of Vale
+title: Luka, destrier of Vale
 Draft: "False"
 tags:
   - NPCs

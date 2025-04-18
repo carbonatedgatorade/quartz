@@ -5,7 +5,7 @@ title: Lu Límnē, the Rill Runner
 Draft: "False"
 ---
 
-*Was engaged once with a member of a royal family, but ultimately it ended.*
+*Was once engaged to be wed to a member of one of the royal families, but ultimately it didn't pan out.*
 
 | STR | DEX | WIL |
 | --- | --- | --- |

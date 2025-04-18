@@ -7,11 +7,11 @@ tags:
 ---
 ## Cast
 ### PCs
-- [[January, the Fieldwarden]]
-- [[Brim, the Foundling]]
-- [[Veda, the Beast Handler]]
-- [[Lu Límnē, the Rill Runner]]
-- [[Cheò Bhilean, the Fletchwind]]
+- [[03 The People/01 Player Characters/January]]
+- [[03 The People/01 Player Characters/Brim]]
+- [[03 The People/01 Player Characters/Veda]]
+- [[03 The People/01 Player Characters/Lu Límnē]]
+- [[03 The People/01 Player Characters/Cheò Bhilean]]
 ### NPCs
 - Medra
 - Domnhall
