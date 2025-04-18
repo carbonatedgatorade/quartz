@@ -18,7 +18,7 @@ tags:
 - The Lady of Winter
 - Ser Hæthia
 ## Summary
-At the behest of the [[followers of the Pale Moon]] the party descended into the crypt of Ser Hæthia to lift the curse placed on it back in the Long Ago. In the process they discovered the truth behind the myth: that the story of betrayal was false, that the [[Frost Shepherds]] fought to prolong the winter, that their death curse was what afflicted the land, and what separated knight and lady for centuries upon centuries. 
+At the behest of the [[02 The Institutions/Followers of the Pale Moon|Followers of the Pale Moon]] the party descended into the crypt of Ser Hæthia to lift the curse placed on it back in the Long Ago. In the process they discovered the truth behind the myth: that the story of betrayal was false, that the Frost Shepherds fought to prolong the winter, that their death curse was what afflicted the land, and what separated knight and lady for centuries upon centuries. 
 
 Through their exploring the party learned the names of Hæthia's hounds and used them to open the final chamber of the crypt; after conversing with the ghost of the knight, they agreed to take the *Moonstone Ring* to the Lady in her tower, uniting them after so long apart. 
 

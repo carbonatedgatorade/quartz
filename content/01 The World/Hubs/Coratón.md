@@ -24,7 +24,7 @@ In the city are houses of stone and packed clay, blue and grey-green, domed roof
 - The **House of Blue Lights**: Riverside inn, the eponymous blue lights hang out over the water, guiding boats to port even on the foggiest of nights. 
 - **... and more!** 
 
-#### People of the Heart^[Remember to refer to the [[Character Key]]!]
+#### People of the Heart
 - [[Magda, the Alcalde]] (3/3/5): The function served by the Alcalde is that of intercessor: someone must arbitrate disagreements and disputes of the various unions that operate in the city. They have served in this position for the last 15 years, and are well regarded by the union council. 
 - [[Cas, the Witch]] (1/1/2): Educated at the *Starfall Academy*, she arrived here just over a year ago.  Her tower is a mile out from town, where she keeps a few goats and trains an apprentice, **Moss**. Mostly works in potions, curing animal diseases, and placing charms of guidance on boats. Rarely does what some call "real magic". 
 - [[Sura, shadowed one]] (4/4/10): A strange figure that lives in the dark corridor. It can never be fully glimpsed: a long spindly arm moving behind a curtain, a partial grin, the winking of a large eye. It is information broker, contraband purveyor, forbidden thing. 
