@@ -2,4 +2,4 @@
 title: bfg2025 wiki
 ---
 
-what's up. don't mind the mess, this place is under construction
+"*Elsewhere is a negative mirror. The traveler recognizes the little that is theirs, discovering the much they have not had and will never have.*"
