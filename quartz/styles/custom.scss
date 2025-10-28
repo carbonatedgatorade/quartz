@@ -1,14 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-i, em, span.cm-em {
-    color: #61ab95; }
+i,
+em,
+span.cm-em {
+  color: #61ab95;
+}
 
-b, 
+b,
 p b,
-p
-strong, 
-span.cm-formatting-strong, 
-span.cm-strong, 
+p strong,
+span.cm-formatting-strong,
+span.cm-strong,
 span.cm-b {
-  color:  #F98E99; }
+  color: #f98e99;
+}
